@@ -1,6 +1,6 @@
 
 
-package act1;
+package Activities;
 
 import java.util.Scanner;
 
